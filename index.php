@@ -2,5 +2,4 @@
 echo "hi";
 $a="papa";
 
-
 ?>
